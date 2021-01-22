@@ -187,8 +187,9 @@ public class Utils {
      * @return {@code true} if the player is on Hypixel, {@code false} otherwise
      */
     public boolean isOnHypixel() {
+        
         final Pattern SERVER_BRAND_PATTERN = Pattern.compile("(.+) <- (?:.+)");
-        final String HYPIXEL_SERVER_BRAND = "BungeeCord (Hypixel)";
+        final String HYPIXEL_SERVER_BRAND = "Hypixel BungeeCord (1.0.0)";
 
         Minecraft mc = Minecraft.getMinecraft();
 
@@ -206,6 +207,7 @@ public class Utils {
         else {
             return false;
         }
+
     }
 
     private long lastFoundScoreboard = -1;
