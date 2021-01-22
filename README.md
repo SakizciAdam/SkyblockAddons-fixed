@@ -2,24 +2,16 @@
 <h1 align="center">SkyblockAddons</h1>
 
 <p align="center">
-  <a href="https://github.com/BiscuitDevelopment/SkyblockAddons/releases" target="_blank">
+  <a href="https://github.com/SakizciAdam/SkyblockAddons-fixed/releases/latest" target="_blank">
     <img alt="downloads" src="https://img.shields.io/badge/release-v1.5.5-green" />
   </a>
   <a href="https://github.com/BiscuitDevelopment/SkyblockAddons/releases" target="_blank">
     <img alt="downloads" src="https://img.shields.io/github/downloads/BiscuitDevelopment/SkyblockAddons/total?color=56bcd3" />
   </a>
-  <a href="https://github.com/BiscuitDevelopment/SkyblockAddons/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/SakizciAdam/SkyblockAddons-fixed/blob/master/LICENSE" target="_blank">
     <img alt="license" src="https://img.shields.io/github/license/BiscuitDevelopment/SkyblockAddons?color=56bcd3" />
   </a>
-  <a href="https://discord.gg/PqTAEek" target="_blank">
-    <img alt="discord" src="https://img.shields.io/discord/450878205294018560?color=56bcd3&label=discord" />
-  </a>
-  <a href="https://twitter.com/bisccut" target="_blank">
-    <img alt="twitter" src="https://img.shields.io/twitter/follow/bisccut?style=social" />
-  </a>
-  <a href="https://translate.biscuit.codes" target="_blank">
-    <img alt="discord" src="https://badges.crowdin.net/skyblockaddons/localized.svg" />
-  </a>
+
 </p>
 
 A Minecraft Forge mod with many features to make your Hypixel Skyblock experience better. Always looking for more features to add!
