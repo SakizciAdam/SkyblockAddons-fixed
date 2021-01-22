@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/BiscuitDevelopment/SkyblockAddons/releases" target="_blank">
-    <img alt="downloads" src="https://img.shields.io/github/v/release/BiscuitDevelopment/SkyblockAddons?color=56bcd3" />
+    <img alt="downloads" src="https://img.shields.io/badge/release-v1.5.5-green" />
   </a>
   <a href="https://github.com/BiscuitDevelopment/SkyblockAddons/releases" target="_blank">
     <img alt="downloads" src="https://img.shields.io/github/downloads/BiscuitDevelopment/SkyblockAddons/total?color=56bcd3" />
